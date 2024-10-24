@@ -4,49 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc915503-aded-4b42-95cb-01a53a916c5d" name="Changes" comment="Finish Day 1">
-      <change afterPath="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/10-1-Days-In-Month/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/Day-10-Code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/Project-10-Calculator/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/Project-10-Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11-BlackJack-Game/Project-11-BlackJack-Game/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 11-BlackJack-Game/Project-11-BlackJack-Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12-Scope+Number Guessing Game/Day-12-Lecture-Code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12-Scope+Number Guessing Game/Project-12-Number-Guessing-Game/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12-Scope+Number Guessing Game/Project-12-Number-Guessing-Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2-Data Types, String Manipulation+Tip calculator/2-1-Data-Types /main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2-Data Types, String Manipulation+Tip calculator/2-2-BMI-Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2-Data Types, String Manipulation+Tip calculator/2-3-Your-Life-in-Weeks/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2-Data Types, String Manipulation+Tip calculator/Project-2-Tip-Calculator/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/3-1-Odd-or-Even/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/3-2-BMI-Calculator-2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/3-3-Leap-Year/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/3-4-Pizza-Order-Exercise/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/3-5-Love-Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/Day-3-Rollercoaster-Ticket-Box/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3-Control Flow, Logical Operators+Treasure Island/Project-3-Treasure-Island/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4-Randomization and Lists+Rock Paper Scissors/4-1-Heads-or-Tails/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4-Randomization and Lists+Rock Paper Scissors/4-2-Whos-Paying/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4-Randomization and Lists+Rock Paper Scissors/4-3-Treasure-Map/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/5-1-Average-Height/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/5-2-Maximum-Score /main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/5-3-Adding-Evens/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/5-4-Fizz-Buzz/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/Day-5-Lectures/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5-Loops+Password Generator/Project-5-Password-Generator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7-Hangman Game/Project-7-Hangman-Game/hangman_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7-Hangman Game/Project-7-Hangman-Game/hangman_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 7-Hangman Game/Project-7-Hangman-Game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8-Functions with arguments+Cesars Cipher/8-1-Area-Calc/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8-Functions with arguments+Cesars Cipher/8-2-Prime-Number-Checker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8-Functions with arguments+Cesars Cipher/Day-8-Functions-with-arguments/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8-Functions with arguments+Cesars Cipher/Project-8-Caesar-Cipher/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 8-Functions with arguments+Cesars Cipher/Project-8-Caesar-Cipher/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9-Dictionaries, Nesting + Silent Auction/9-1-Grading-Program/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9-Dictionaries, Nesting + Silent Auction/9-2-Dict-In-List /main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9-Dictionaries, Nesting + Silent Auction/Day-9-Code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9-Dictionaries, Nesting + Silent Auction/Project-9-Blind-Auction/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 9-Dictionaries, Nesting + Silent Auction/Project-9-Blind-Auction/main.py" afterDir="false" />
+    <list default="true" id="fc915503-aded-4b42-95cb-01a53a916c5d" name="Changes" comment="Finish Day 12">
+      <change afterPath="$PROJECT_DIR$/Day 14-Higher Lower Game/Project-14-Higher-Lower-Game/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 14-Higher Lower Game/Project-14-Higher-Lower-Game/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 14-Higher Lower Game/Project-14-Higher-Lower-Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 15-Coffee-Machine-Project/Project-15-Coffee-Machine/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 15-Coffee-Machine-Project/Project-15-Coffee-Machine/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sotheavuthnguon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sotheavuthnguon/100-Days-Python-BootCamp-Proj.git&quot;,
+    &quot;accountId&quot;: &quot;ba7b5975-58f8-44ac-8560-d743a6f006e5&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -104,7 +79,7 @@
       <recent name="$PROJECT_DIR$/day-7" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-Python-BootCamp-Proj" />
       <option name="ENV_FILES" value="" />
@@ -114,33 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/10-1-Days-In-Month" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 15-Coffee-Machine-Project/Project-15-Coffee-Machine" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/10-1-Days-In-Month/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100-Days-Python-BootCamp-Proj" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/Project-10-Calculator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 10-Functions with outputs + Calculator/Project-10-Calculator/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 15-Coffee-Machine-Project/Project-15-Coffee-Machine/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,6 +138,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 12-Scope+Number Guessing Game/Project-12-Number-Guessing-Game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-Python-BootCamp-Proj" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 14-Higher Lower Game/Project-14-Higher-Lower-Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 14-Higher Lower Game/Project-14-Higher-Lower-Game/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -239,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -271,11 +246,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728878296723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finish Day 12">
+      <option name="closed" value="true" />
+      <created>1729752014956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729752014956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finish Day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish Day 1" />
+    <MESSAGE value="Finish Day 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Day 12" />
   </component>
 </project>
